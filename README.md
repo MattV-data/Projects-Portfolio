@@ -10,7 +10,7 @@ analysing monthly rental cost with square footage in the various boroughs of Tor
 [Fraud Detection](https://github.com/MattV-data/Projects-Portfolio/blob/main/Fraud%20Detection%20portfolio.ipynb)
 
 This project looks into helping lay the foundation for RTR (real time rail) payment systems. Using a sample dataset,
-a model was built to predict whether a transaction is fraudulent or not. The model is to be evaluated using the area
+a model was built to predict whether a transaction is fraudulent or not. The model is evaluated using the area
 under the ROC curve.
 
 
