@@ -25,7 +25,7 @@ Tools
 * Machine Learning: Scikit-learn
 
 
-[House Cost Analysis & Prediction] (https://github.com/MattV-data/Projects-Portfolio/blob/main/Housing%20Portfolio%20Project.ipynb)
+[House Cost Analysis & Prediction](https://github.com/MattV-data/Projects-Portfolio/blob/main/Housing%20Portfolio%20Project.ipynb)
 
 This project analyzes the cost of homes from a Melbourne realty dataset and creates a price prediction model
 
