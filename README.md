@@ -38,8 +38,7 @@ Tools
 
 [Uber Weather Analysis](https://github.com/MattV-data/Projects-Portfolio/blob/main/Uber%20Weather%20Analysis%20Portfolio.ipynb)
 
-Query Uber ride and weather data stored on geo-coordinates, prepared multiple dashboards & story to study impact of weather on uber ridership and utilized Time Series analysis in Python.
-
+Query Uber trip and weather data from April to June in 2014 in New York City stored on geo-coordinates, prepared multiple dashboards & story to study impact of weather on uber ridership and utilized Time Series analysis in Python. The data has cleaned and preprocessed and exported as a csv file for visualization in Tableau.
 
 Tools
 
