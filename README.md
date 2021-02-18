@@ -45,7 +45,7 @@ Tools
 * Python: Pandas
 
 
-**NLP Analysis (In The Process To Add)**
+**NLP Analysis (In The Process To Upload)**
 
 Big data (24M+ records) Twitter API stored to train a model
 
