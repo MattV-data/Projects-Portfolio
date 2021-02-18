@@ -43,3 +43,14 @@ Query Uber trip and weather data from April to June in 2014 in New York City sto
 Tools
 
 * Python: Pandas
+
+
+NLP Analysis (In The Process To Add)
+
+Big data (24M+ records) Twitter API stored to train a model
+
+Tools
+
+* PySpark, AWS (EMR, S3, Athena, Quicksight), Databricks
+* Machine Learning Algorithms used: MLlib
+
