@@ -54,3 +54,4 @@ Tools
 * PySpark, AWS (EMR, S3, Athena, Quicksight), Databricks
 * Machine Learning Algorithms used: MLlib
 
+- Git integration done
