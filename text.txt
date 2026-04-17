@@ -1,0 +1,7 @@
+"hello world"
+
+step 1 
+1. once you have create a project/folder/file worth of pushing to git, the next steps are index, commit, push
+2. index with git add .
+3. commit with git committ -a -m "description of changes/what is worked on/ meaningful to the developer only"
+4. git push
