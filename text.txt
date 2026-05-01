@@ -5,3 +5,4 @@ step 1
 2. index with git add .
 3. commit with git committ -a -m "description of changes/what is worked on/ meaningful to the developer only"
 4. git push
+blah blah blah
